@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|c:\\users\\lindseygordon\\source\\repos\\mission10_lgordon\\backend\\mission10_api_lgordon\\mission10_api_lgordon\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|solutionrelative:mission10_api_lgordon\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|c:\\users\\lindseygordon\\source\\repos\\mission10_lgordon\\backend\\mission10_api_lgordon\\mission10_api_lgordon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|solutionrelative:mission10_api_lgordon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|c:\\users\\lindseygordon\\source\\repos\\mission10_lgordon\\backend\\mission10_api_lgordon\\mission10_api_lgordon\\controllers\\bowlerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|solutionrelative:mission10_api_lgordon\\controllers\\bowlerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|c:\\users\\lindseygordon\\source\\repos\\mission10_lgordon\\backend\\mission10_api_lgordon\\mission10_api_lgordon\\data\\bowlerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C264B3-F126-4492-A637-0DD125439710}|Mission10_API_LGordon\\Mission10_API_LGordon.csproj|solutionrelative:mission10_api_lgordon\\data\\bowlerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_API_LGordon\\Program.cs",
+              "ToolTip": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Program.cs",
+              "RelativeToolTip": "Mission10_API_LGordon\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAmJmZmZkOwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:54:48.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission10_API_LGordon\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission10_API_LGordon\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T18:47:35.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Data\\BowlerInfo.cs",
+              "RelativeDocumentMoniker": "Mission10_API_LGordon\\Data\\BowlerInfo.cs",
+              "ToolTip": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Data\\BowlerInfo.cs",
+              "RelativeToolTip": "Mission10_API_LGordon\\Data\\BowlerInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:25:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Controllers\\BowlerInfoController.cs",
+              "RelativeDocumentMoniker": "Mission10_API_LGordon\\Controllers\\BowlerInfoController.cs",
+              "ToolTip": "C:\\Users\\lindseygordon\\source\\repos\\Mission10_LGordon\\backend\\Mission10_API_LGordon\\Mission10_API_LGordon\\Controllers\\BowlerInfoController.cs",
+              "RelativeToolTip": "Mission10_API_LGordon\\Controllers\\BowlerInfoController.cs",
+              "ViewState": "AQIAAA8AAABAm5mZmRkVwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:54:21.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

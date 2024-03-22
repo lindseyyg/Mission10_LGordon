@@ -1,0 +1,6 @@
+@Mission10_API_LGordon_HostAddress = http://localhost:5172
+
+GET {{Mission10_API_LGordon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,59 @@
+{
+  "BowlerData": [
+    {
+      "BowlerLastName": "Doe",
+      "BowlerFirstName": "Jane",
+      "BowlerMiddleInit": "I",
+      "TeamName": "Sharks",
+      "BowlerAddress": "1111 W 1111 S",
+      "BowlerCity": "Bowlville",
+      "BowlerState": "UT",
+      "BowlerZip": "12345",
+      "BowlerPhoneNumber": "801-111-1111"
+    },
+    {
+      "BowlerLastName": "Smith",
+      "BowlerFirstName": "Joe",
+      "BowlerMiddleInit": "T",
+      "TeamName": "Marlins",
+      "BowlerAddress": "2222 N 2222 E",
+      "BowlerCity": "Provo",
+      "BowlerState": "UT",
+      "BowlerZip": "84601",
+      "BowlerPhoneNumber": "801-222-2222"
+    },
+    {
+      "BowlerLastName": "George",
+      "BowlerFirstName": "Kate",
+      "BowlerMiddleInit": "A",
+      "TeamName": "Sharks",
+      "BowlerAddress": "3333 W 3333 S",
+      "BowlerCity": "Orem",
+      "BowlerState": "UT",
+      "BowlerZip": "67890",
+      "BowlerPhoneNumber": "801-333-3333"
+    },
+    {
+      "BowlerLastName": "Snow",
+      "BowlerFirstName": "Mary",
+      "BowlerMiddleInit": "B",
+      "TeamName": "Marlins",
+      "BowlerAddress": "4444 W 4444 S",
+      "BowlerCity": "Springville",
+      "BowlerState": "NV",
+      "BowlerZip": "34567",
+      "BowlerPhoneNumber": "801-444-4444"
+    },
+    {
+      "BowlerLastName": "Hilton",
+      "BowlerFirstName": "Spencer",
+      "BowlerMiddleInit": "J",
+      "TeamName": "Sharks",
+      "BowlerAddress": "5555 E 5555 S",
+      "BowlerCity": "Winville",
+      "BowlerState": "AZ",
+      "BowlerZip": "44567",
+      "BowlerPhoneNumber": "801-555-5555"
+    }
+  ]
+}
